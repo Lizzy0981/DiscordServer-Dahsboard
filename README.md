@@ -2,6 +2,11 @@
 
 Un mini dashboard web para visualizar información clave de un servidor de Discord.
 
+# 🎮 Imagen de Dahsboard
+
+![Captura de pantalla_13-2-2025_123944_localhost](https://github.com/user-attachments/assets/c43c3676-14bd-4eab-9528-9ea300f3dd27)
+
+
 ## ✨ Características
 
 - 👥 Visualización de número total de miembros

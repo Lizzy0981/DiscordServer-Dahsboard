@@ -1,6 +1,6 @@
 # 🎮 Discord Server Dashboard
 
-Un mini dashboard web para visualizar información clave de un servidor de Discord.
+Un mini dashboard web para visualizar información clave de tu servidor de Discord, sin abrir la app de Discord.
 
 # 🎮 Imagen de Dahsboard
 

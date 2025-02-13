@@ -47,12 +47,7 @@ npm run dev
 
 ## 🌐 Despliegue
 
-El proyecto está configurado para ser desplegado en Vercel. Solo necesitas:
-
-1. Crear una cuenta en Vercel
-2. Conectar tu repositorio de GitHub
-3. Importar el proyecto
-4. ¡Listo! Vercel desplegará automáticamente tu aplicación
+El proyecto está desplegado en Vercel. Link: https://discord-server-dahsboard.vercel.app/ 
 
 ## 📄 Licencia
 

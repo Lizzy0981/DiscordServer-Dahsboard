@@ -1,4 +1,4 @@
-# 🎮 Discord Dashboard
+# 🎮 Discord Server Dashboard
 
 Un mini dashboard web para visualizar información clave de un servidor de Discord.
 
@@ -24,7 +24,7 @@ Un mini dashboard web para visualizar información clave de un servidor de Disco
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/Lizzy0981/Discord-Dashboard.git
+git clone https://github.com/Lizzy0981/DiscordServer-Dashboard.git
 ```
 
 2. Instala las dependencias:

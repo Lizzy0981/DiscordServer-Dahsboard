@@ -34,7 +34,7 @@ git clone https://github.com/Lizzy0981/DiscordServer-Dashboard.git
 
 2. Instala las dependencias:
 ```bash
-cd discord-dashboard
+cd discordserver-dashboard
 npm install
 ```
 

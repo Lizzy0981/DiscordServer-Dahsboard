@@ -18,7 +18,7 @@ export default defineConfig({
     port: 5173,
     strictPort: true,
     host: true,
-    cors: true // Habilitar CORS
+    cors: true 
   },
   build: {
     chunkSizeWarningLimit: 1600,

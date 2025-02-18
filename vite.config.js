@@ -5,7 +5,7 @@ import path from 'path'
 export default defineConfig({
   plugins: [
     react({
-      // Desactivar el fast refresh para evitar problemas con los nodos
+     
       fastRefresh: false
     })
   ],

@@ -7,8 +7,7 @@ Un mini dashboard web para visualizar información clave de tu servidor de Disco
 ![Captura de pantalla_13-2-2025_123944_localhost](https://github.com/user-attachments/assets/c43c3676-14bd-4eab-9528-9ea300f3dd27)
 
 
-
-
+![screencapture-discord-server-dahsboard-vercel-app-2025-02-17-21_37_08](https://github.com/user-attachments/assets/8399c4c5-48c0-4252-b286-cc763a7ffaad)
 
 ## ✨ Características
 

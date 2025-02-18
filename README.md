@@ -7,6 +7,9 @@ Un mini dashboard web para visualizar información clave de tu servidor de Disco
 ![Captura de pantalla_13-2-2025_123944_localhost](https://github.com/user-attachments/assets/c43c3676-14bd-4eab-9528-9ea300f3dd27)
 
 
+
+
+
 ## ✨ Características
 
 - 👥 Visualización de número total de miembros

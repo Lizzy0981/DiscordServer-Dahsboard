@@ -35,7 +35,7 @@ class DiscordService {
     // Datos simulados mejorados
     if (url.includes('/guilds/')) {
       return {
-        approximate_member_count: 1, // Cambiado a 1 ya que es un servidor nuevo
+        approximate_member_count: 1,
         name: 'Servidor de Prueba'
       };
     }
